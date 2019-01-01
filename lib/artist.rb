@@ -9,8 +9,8 @@ class Artist
 
   end
 
-  def self.all?
-    
+  def self.all
+
   end
 
 end
